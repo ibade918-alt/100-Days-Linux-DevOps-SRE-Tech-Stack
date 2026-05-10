@@ -53,27 +53,13 @@ When we learn Networking we will come to understand:
 - Importance of Static IP
 - Troubleshooting Networking Issues
 
-NOTE: Permanent Fix for Disabling IPv6
-Let us Edit the sysctl Configuration File\
-Open the following file:
+## Let us fix this issue. Type the following comands in your Virtual Machine (Black Box):
 
 ```bash
-<root@vm1>#vi /etc/sysctl.conf
+sysctl -w net.ipv6.conf.all.disable_ipv6=1
 ```
-Press the "i" key on your keyboard
-
-Scroll down to the bottom of the script and add these lines at the bottom of this script
-net.ipv6.conf.all.disable_ipv6 = 1\
-net.ipv6.conf.default.disable_ipv6 = 1
-
-Press the "Esc" key
-Type:
-:wq
-Then press Enter
-
-Apply The Changes:
 ```bash
-<root@vm1>#sysctl -p
+sysctl -w net.ipv6.conf.default.disable_ipv6=1
 ```
 ### Task is now complete!
 
