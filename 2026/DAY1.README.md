@@ -1,4 +1,8 @@
-# Welcome to NIT Academy - Day 1
+# Welcome to NIT Academy - Day 1 & 2
+~~~
+Day-1: Saturday 9th May, 2026
+Day-2: Sunday 10th May, 2026
+~~~
 
 ## Table of Contents
 
