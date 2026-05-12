@@ -26,7 +26,7 @@ Please take this seriously and complete all assignments on time.
 Click the link below to access the login-page\
 [Xen-Orchestra](https://labs.nit.academy)
 
-<img src=".././.github/assets/XO-LOGIN.jpg" width="500">\
+<img src="../../.github/assets/XO-LOGIN.jpg" width="500">\
 Enter your Credentials:
 ```Text
 Username:
@@ -34,18 +34,18 @@ Password:
 ```
 2. Navigating your Virtual Machine (VM) Console
 Click on the virtual machine that has a "green" dot:\
-<img src=".././.github/assets/XO-VM.jpg" width="700">
+<img src="../../.github/assets/XO-VM.jpg" width="700">
 
 Review your Virtual Machine Resources:\
-<img src=".././.github/assets/XO-VM-CONSOLE.jpg" width="700">
+<img src="../../.github/assets/XO-VM-CONSOLE.jpg" width="700">
 
 Click on tab "Console":\
-<img src=".././.github/assets/XO-LINUX-VM.jpg" width="700">
+<img src="../../.github/assets/XO-LINUX-VM.jpg" width="700">
 ```Text
 Step1 - Click in the "Black Box"
 Step2 - Hit the "Enter Key"
 ```
-<img src=".././.github/assets/XO-VM-LOGIN.jpg" width="700">
+<img src="../../.github/assets/XO-VM-LOGIN.jpg" width="700">
 
 ```bash
    unknowna1alsdjfals5 Login: root
