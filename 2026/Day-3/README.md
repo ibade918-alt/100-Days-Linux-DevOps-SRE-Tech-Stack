@@ -190,7 +190,7 @@ Restart your computer if prompted.
 
 ---
 
-# Task 6 - Install a Specific Distro
+# Task 6 - Install a Specific Distro 
 
 To view valid distro names:
 
